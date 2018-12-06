@@ -1,5 +1,22 @@
 # deep-translucent-recon
 
-Implementation of the paper "Depth Reconstruction of Translucent Objects from a Single Time-of-Flight Camera using Deep Residual Networks".
+Implementation of the paper "Depth Reconstruction of Translucent Objects from a Single Time-of-Flight Camera using Deep Residual Networks", by Song and Shim on ACCV 2018.
 
-There are some training datas missing, and the code needs a ton of cleanup. We're activly working on fixing it.
+
+## Dependencies
+
+* Python 3.6
+* PyTorch 0.4.0
+
+---
+
+For now we're providing:
+
+* train/test datasets, pre-cut as patches
+* The code, as used in paper
+
+Very soon we are planning to:
+
+* prpvide unprocessed depth images
+* commentate and clean up codes
+
