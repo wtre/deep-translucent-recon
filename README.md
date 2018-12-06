@@ -12,11 +12,11 @@ Implementation of the paper "Depth Reconstruction of Translucent Objects from a 
 
 For now we're providing:
 
-* train/test datasets, pre-cut as patches
+* Train/test datasets, pre-cut as patches
 * The code, as used in paper
 
 Very soon we are planning to:
 
-* prpvide unprocessed depth images
-* commentate and clean up codes
+* Provide unprocessed depth images
+* Commentate and clean up codes
 
